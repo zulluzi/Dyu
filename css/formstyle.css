@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+.header{
+    background-image: url(../assets/background.jpg);
+    background-size: cover;
+}
+
+.navbar{
+    display:flex;
+    justify-content: space-between;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+    width: 20%;
+    margin-left: 2%;
+}
+
+.home{
+    color: white;
+    font-size: 20px;
+}
+
+.content{
+    background-color:lightgray;
+    padding: 20px;
+}
